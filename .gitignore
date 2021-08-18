@@ -1,0 +1,5 @@
+build/
+node_modules/
+app
+reach
+.DS_Store
